@@ -33,6 +33,7 @@ body {
   padding: 1rem;
   margin: 0 1rem;
   border-radius: 1.188rem;
+  box-shadow: 0px 3px 23px 4px rgba(0, 0, 0, 0.09);
 }
 .card-image {
   max-width: 18rem;
